@@ -16,10 +16,9 @@ import GuestLayoutVue from '@/Layouts/GuestLayout.vue';
     
             <div class="py-12">
                 <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-                    <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg flex flex-col justify-center p-6">
+                    <div class="bg-white dark:bg-slate-900 overflow-hidden shadow-sm sm:rounded-lg p-5">
+                        <h1 class="text-3xl text-center font-semibold">Welcome to Law Firm X</h1>
 
-                       
-                        <a href="/client/list" class="underline">Clients</a>
                     </div>
                 </div>
             </div>
